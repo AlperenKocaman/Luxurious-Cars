@@ -1,0 +1,33 @@
+img {
+  width: 3600px;
+  height: auto;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: 100%,100%;
+}
+p {
+  font-size:20px;
+  text-align: center;
+  text-decoration: overline;
+  font-style: Italic;
+}
+h2 {
+    color: Black;
+    font-size:75px;
+    margin: 5px;
+    background-color: none;
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+  }
+  body {
+    background-image: url('Porschetaycan.jpg');
+    background-size: cover;
+  }
+div{
+  color: black;
+  font-style: italic;
+  text-align: center;
+  font-size: 28px;
+
+
+}
